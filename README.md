@@ -8,7 +8,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/lordpews/Face-Mask-Detection
+  git clone https://github.com/parika19/FaceMaskDetection
 ```
 
 Go to the project directory
